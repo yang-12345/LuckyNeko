@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="lucky-neko:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/lucky_neko_jar</output-path>
+    <root id="archive" name="lucky-neko.jar">
+      <element id="module-output" name="lucky-neko" />
+    </root>
+  </artifact>
+</component>

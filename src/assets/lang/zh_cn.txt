@@ -1,0 +1,14 @@
+panel.welcome.title.night=不要熬夜哦。
+panel.welcome.title.dawn=你来的真早。
+panel.welcome.title.early_morning=早上好。
+panel.welcome.title.morning=上午好。
+panel.welcome.title.noon=中午好。
+panel.welcome.title.afternoon=下午好。
+panel.welcome.title.evening=晚上好。
+panel.welcome.description=今天也要努力地抽奖呢！
+panel.welcome.start=开抽！
+panel.lottery.import=点我导入名单喵
+panel.lottery.hint.empty.1=好像没有人可以选诶……
+panel.lottery.hint.empty.2=尝试添加名单吧！
+panel.lottery.hint.ready.1=用力划动名单！
+panel.lottery.hint.ready.2=当前有%s名幸运观众

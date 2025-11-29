@@ -1,0 +1,14 @@
+panel.welcome.title.night=Staying up is not a good idea.
+panel.welcome.title.dawn=You're here early!
+panel.welcome.title.early_morning=Good morning.
+panel.welcome.title.morning=Good morning.
+panel.welcome.title.noon=Good afternoon.
+panel.welcome.title.afternoon=Good afternoon.
+panel.welcome.title.evening=Good evening.
+panel.welcome.description=Today's goal: still to draw a lottery!
+panel.welcome.start=Let's go!
+panel.lottery.import=Import name list
+panel.lottery.hint.empty.1=There's no one to be selected...
+panel.lottery.hint.empty.2=Try to add something!
+panel.lottery.hint.ready.1=Try your best to drag the list!
+panel.lottery.hint.ready.2=Currently we have %s neko(s)
